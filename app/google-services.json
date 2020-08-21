@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "131049964939",
+    "firebase_url": "https://fitnessapp-f5875.firebaseio.com",
+    "project_id": "fitnessapp-f5875",
+    "storage_bucket": "fitnessapp-f5875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131049964939:android:915fb70d0808f7987edb8e",
+        "android_client_info": {
+          "package_name": "com.test.easylearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131049964939-fii9i7iu17bprqajk0mgib03vhp7879s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAszPLn9RnHx9HgCCAcc8X8CAHL8HZGsjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131049964939-fii9i7iu17bprqajk0mgib03vhp7879s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
